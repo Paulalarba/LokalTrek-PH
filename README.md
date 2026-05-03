@@ -1,4 +1,4 @@
-# 🌴 LokalTrek PH: The Authentic Philippine Travel Hub
+# LokalTrek PH: The Authentic Philippine Travel Hub
 
 **LokalTrek PH** is a nationwide travel and booking directory built on ASP.NET Core 10. It is designed specifically for "flashpackers"—travelers who want raw, authentic local experiences (eating street food, meeting local guides) but are willing to pay for convenience, comfort, and a seamless booking process.
 
@@ -6,14 +6,14 @@ Instead of generic hotel listings, LokalTrek PH focuses on **Curated Experiences
 
 ---
 
-## ✨ Key Features
+## Key Features
 
-### 🤖 AI-Powered Capabilities
+### AI-Powered Capabilities
 *   **Visual Itinerary Generation:** Users can upload a photo or a link to a social media reel (e.g., a hidden waterfall in Sagada or a surfing spot in Siargao). The platform's AI vision tools identify the location, pull relevant local vendors from the database, and generate a cohesive, bookable 3-day itinerary.
 *   **Conversational Travel Assistant (LokalBot):** An integrated AI chatbot that understands natural language queries like, *"Find me a romantic weekend in Bantayan under ₱3,000/night near MJ Square,"* and cross-references user intent with our database to provide instant, personalized booking links.
 *   **Predictive Travel Timing:** Machine learning algorithms that analyze historical weather patterns (Amihan vs. Habagat seasons) and ferry cancellation rates to recommend the safest and most optimal days to book island transfers.
 
-### 🎒 Core Platform Features
+### Core Platform Features
 *   **Hierarchical Destination Browsing:** A structured database that prevents geographical mismatches, allowing users to drill down precisely from Region ➔ Province ➔ Island/Municipality.
 *   **"Catch and Cook" & Curated Packages:** A direct booking engine for specialized local experiences (e.g., booking a local fisherman's boat alongside a local chef to cook the catch).
 *   **Vendor Subscription Portal:** A secure dashboard for local tricycle drivers, homestays, and eateries to manage their "Featured Partner" subscriptions, update their menus, and adjust pricing.
@@ -21,7 +21,7 @@ Instead of generic hotel listings, LokalTrek PH focuses on **Curated Experiences
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 *   **Framework:** ASP.NET Core 10 (MVC Architecture)
 *   **Database:** Microsoft SQL Server (or SQLite for local development)
@@ -32,7 +32,7 @@ Instead of generic hotel listings, LokalTrek PH focuses on **Curated Experiences
 
 ---
 
-## 🗄️ Database Architecture
+## Database Architecture
 
 The data structure is built to scale across the entire Philippines using hierarchical geography:
 
@@ -45,7 +45,7 @@ The data structure is built to scale across the entire Philippines using hierarc
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 Follow these steps to run the LokalTrek PH project locally on your machine.
 
